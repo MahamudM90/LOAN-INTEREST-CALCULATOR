@@ -50,7 +50,7 @@ Go to `http://localhost:3000` to view the app.
 
 ## Authors
 
-- **Mahamud Hasan - [geekysrm](https://github.com/geekysrm)
+- **Mahamud Hasan - [mahamudm90](https://github.com/MahamudM90/LOAN-INTEREST-CALCULATOR)
 
 ## License
 
