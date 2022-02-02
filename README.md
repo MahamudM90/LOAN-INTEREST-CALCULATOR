@@ -2,6 +2,8 @@
 
 A loan interest calculator made with React.
 
+![ScreenShot of Form](screenshorts/a.png)
+
   ###    [Live here](https://loan-calcultes.netlify.app/)
 
 
