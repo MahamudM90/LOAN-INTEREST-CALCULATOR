@@ -33,7 +33,7 @@ Follow these steps to run this project in your local computer.
 ```
 $ https://github.com/geekysrm/react-loan-interest-calculator.git
 $ cd react-loan-interest-calculator
-$ npm insta
+$ npm instal
 ```
 
 Now, to run the project on port `3000`, run:
